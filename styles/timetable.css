@@ -2,3 +2,23 @@ body {
   background-color: bisque;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.title {
+  color: brown;
+}
+.day {
+  font-size: 18px;
+  color: white;
+
+  border-radius: 50px;
+  border: 4px solid white;
+  padding: 15px;
+  
+  background-color: blueviolet;
+}
+.week-day {
+  border-radius: 50px;
+  border: 4px solid white;
+  padding: 5px;
+  color: white;
+  background-color: darkblue;
+}
